@@ -8,8 +8,8 @@
 
 ## 必须交的
 - [x] 游戏已建成可玩：Majority Rules，本地实测通过（见下）
-- [ ] App listing 链接 developers.reddit.com/apps/{app-name}：待 Devvit 上传后填
-- [ ] Demo post 链接：测试帖子（公开子版块，成员 <200 人）运行游戏；App 不必发布，私有上传即可参赛
+- [ ] App listing 链接 developers.reddit.com/apps/majority-rules：Devvit 工程已搭好（官方 React 模板 + 游戏已移植），npm install/build 正在跑；上传须 Reddit 账号登录，待办
+- [ ] Demo post 链接：测试帖子（公开子版块，成员 <200 人）运行游戏；App 不必发布，私有上传即可参赛；待上传后建帖
 - [x] 文字说明：README.md 已写玩法与诚实说明
 - [ ] 演示视频（可选，<1 分钟，YouTube/Vimeo/Facebook/Youku 公开链接）：待录
 - [x] README.md 在仓库根目录
