@@ -21,7 +21,7 @@
     "items": [
       {
         "label": "Create a new post",
-        "description": "Majority Rules — daily dilemma game",
+        "description": "Majority Rules \u2014 daily dilemma game",
         "location": "subreddit",
         "forUserType": "moderator",
         "endpoint": "/internal/menu/post-create"
@@ -47,5 +47,8 @@
   },
   "dev": {
     "subreddit": "majority_rules_da_dev"
+  },
+  "marketingAssets": {
+    "icon": "assets/app-icon.png"
   }
 }

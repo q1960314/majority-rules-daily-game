@@ -9,7 +9,7 @@
 ## 必须交的
 - [x] 游戏已建成可玩：Majority Rules，本地实测通过（见下）
 - [x] App listing 链接：https://developers.reddit.com/apps/majority-rules-daily ，上传成功（版本 0.0.1），设备浏览器 14:46 独立复核确认：已上传、装在 1 个社区、创建者 Pitiful_Command_8132
-- [ ] Demo post 链接：测试帖子（公开子版块，成员 <200 人）运行游戏；App 不必发布，私有上传即可参赛；14:46 复核：自动建的 r/majority_rules_da_dev 是私密版块，不合公开要求，须改公开或另建公开版块；自动建的帖子标题是模板占位符 <% name %>，已修为 Majority Rules — Daily Dilemma，待重传 0.0.2 后建演示帖
+- [x] Demo post 链接：https://www.reddit.com/r/majority_rules_da_dev/comments/1y46koc/majority_rules_daily_dilemma/ ，公开版块 r/majority_rules_da_dev，标题 Majority Rules — Daily Dilemma，2026-11-24 14:58 发布，游戏已渲染（当日题＋Tap to Play）；版块已改公开，安装已更新到 0.0.2；两篇旧占位帖（14:46 自动帖与 1y46jn7）仍在版块里，待删
 - [x] 文字说明：README.md 已写玩法与诚实说明
 - [ ] 演示视频（可选，<1 分钟，YouTube/Vimeo/Facebook/Youku 公开链接）：待录
 - [x] README.md 在仓库根目录

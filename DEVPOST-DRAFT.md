@@ -3,10 +3,10 @@
 截止：2026-12-08 18:00 PT
 
 ## App listing 链接
-https://developers.reddit.com/apps/majority-rules-daily （上传成功，版本 0.0.1）
+https://developers.reddit.com/apps/majority-rules-daily （已上传，版本 0.0.2，安装已更新到 0.0.2）
 
 ## Demo post 链接
-待填：（测试子版块公开帖，成员 <200 人）
+https://www.reddit.com/r/majority_rules_da_dev/comments/1y46koc/majority_rules_daily_dilemma/ （公开版块 r/majority_rules_da_dev，标题 Majority Rules — Daily Dilemma，2026-11-24 14:58 发布，游戏已渲染）
 
 ## 文字说明（拟）
 Majority Rules is a daily dilemma game built with Devvit Web. Every day,
