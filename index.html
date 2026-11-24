@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Majority Rules — Daily Dilemma</title>
+<link rel="stylesheet" href="app.css">
+</head>
+<body>
+<main id="app">
+  <header>
+    <h1>Majority Rules</h1>
+    <p class="sub">One dilemma a day. Guess what most people would pick.</p>
+    <p class="meta"><span id="dateLine"></span> · <span id="streakLine">Streak: 0</span> · <span id="scoreLine">Score: 0</span></p>
+  </header>
+  <section id="card" aria-live="polite">
+    <p class="q-label" id="qLabel">Today's dilemma</p>
+    <h2 id="question"></h2>
+    <div class="choices">
+      <button id="btnA" class="choice"></button>
+      <button id="btnB" class="choice"></button>
+    </div>
+    <p class="hint" id="hint">Pick a side. No wrong answers — only the majority.</p>
+    <div id="result" hidden>
+      <div class="bars">
+        <div class="bar-row"><span id="labelA"></span><div class="bar"><div id="barA"></div></div><b id="pctA"></b></div>
+        <div class="bar-row"><span id="labelB"></span><div class="bar"><div id="barB"></div></div><b id="pctB"></b></div>
+      </div>
+      <p id="verdict"></p>
+      <p id="shareText" class="share"></p>
+      <button id="copyBtn">Copy result card</button>
+      <button id="practiceBtn">Practice another one</button>
+    </div>
+  </section>
+  <footer>
+    <p>Daily puzzle, seeded by date — everyone gets the same dilemma today. Splits are the game's baked-in answer key for this demo build; a live version tallies real votes.</p>
+    <p><a href="README.md">How to play</a></p>
+  </footer>
+</main>
+<script src="dilemmas.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
