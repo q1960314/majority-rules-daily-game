@@ -13,7 +13,7 @@
 - [x] 文字说明：README.md 已写玩法与诚实说明
 - [ ] 演示视频（可选，<1 分钟，YouTube/Vimeo/Facebook/Youku 公开链接）：待录
 - [x] README.md 在仓库根目录
-- [ ] 公开仓库链接（可选）：待仓库建好推送后填
+- [x] 公开仓库链接：https://github.com/q1960314/majority-rules-daily-game ，commit 25a75ad，全新克隆 7 个文件、语法核过
 - [ ] 反馈表（可选，冲 $200 反馈奖）：待填
 
 ## 评审标准（等权重）
@@ -24,4 +24,4 @@ Delightful UX、Polish、Reddit-y、Daily Content。避开项已对过：不是 
 - 语法：app.js、dilemmas.js 均通过 node --check
 - 玩法循环（Node DOM 桩实测）：点 A → 出结果（59% 对 41%）、连对 1、分 1、按钮禁用、练习模式换题，PASS
 - 未做到的：本地 Chromium 因 Hatch WebGL 域策略起不来，实屏截图没拿到；改走托管版/设备浏览器验视觉，下轮补
-- 仓库：本地 commit e02891d（6 个文件）；GitHub MCP 建库报 403（集成无权建库），已改走用户 Windows Chrome 建库，等回音；建好后推送，推送成功以 ls-remote + 全新克隆为准
+- 仓库：已推。公开库建好（用户 Windows Chrome），MCP 建库 403 后改走接口 push-files；GitHub 上 2 个 commit（Initial 4ce808a 为系统初始化 + 快照 25a75ad），全新克隆 7 个文件、语法核过
